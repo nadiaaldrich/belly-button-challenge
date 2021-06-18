@@ -64,8 +64,8 @@ function getPlots(id){
       height: 600,
       width: 1000
       
-  };
-
+  }; 
+  
   // creating data variable 
   var data1 = [trace1];
 
